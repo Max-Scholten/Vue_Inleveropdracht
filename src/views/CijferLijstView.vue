@@ -1,7 +1,7 @@
 <template>
-  <div class="cijferlijst-container">
+  <div class="cijferlijst-container bg-red-900">
     <h1>Cijferlijst</h1>
-    <table>
+    <table class="bg-white">
       <thead>
       <tr>
         <th>Examen</th>
